@@ -1,0 +1,31 @@
+#hero-section {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero-image {
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+
+.headshot {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.tagline {
+    font-size: 1.5rem;
+}
